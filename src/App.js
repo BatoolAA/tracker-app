@@ -1,9 +1,10 @@
 import React from 'react';
+import Child from './Child';
 
 function App() {
   return (
     <div className="App">
-      hello batool abbas ali
+      <Child />
     </div>
   );
 }
